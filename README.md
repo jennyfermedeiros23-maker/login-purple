@@ -40,6 +40,6 @@ Projeto desenvolvido como prática de estudos em desenvolvimento web.
 
 ## Pré-visualização do projeto
 
-![Tela de Login](Imagem/img.jpg)
+![Tela de Login](Imagens/img.jpg)
 
 
