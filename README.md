@@ -38,4 +38,8 @@ O objetivo foi desenvolver uma tela de login com uma aparência moderna e delica
 
 Projeto desenvolvido como prática de estudos em desenvolvimento web.
 
+## Pré-visualização do projeto
+
+![Tela de Login](img.jpg)
+
 
