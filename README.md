@@ -33,10 +33,9 @@ O objetivo foi desenvolver uma tela de login com uma aparência moderna e delica
 2. Abra a pasta no Visual Studio Code.
 3. Execute o arquivo "index.html" utilizando o Live Server.
 
-## 📸 Prévia do projeto
-
-![Tela de login](img.jpg)
 
 👩‍💻 Desenvolvido por
 
-Projeto desenvolvido como prática de estudos em desenvolvimento web
+Projeto desenvolvido como prática de estudos em desenvolvimento web.
+
+
